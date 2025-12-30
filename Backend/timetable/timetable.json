@@ -1,0 +1,1678 @@
+{
+  "Term_1_AY_2025/2026_Timetable": {
+    "BAPM_2023_Section_A": {
+      "Monday": {},
+      "Tuesday": {
+        "Session 1": {
+          "Course": "Managerial Economics",
+          "Instructor": "Dieudonne, U.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "9:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Project Procurement and Supply Chain Management",
+          "Instructor": "Jean Claude, S.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Capstone II: Strategic Project Management",
+          "Instructor": "Dr. Sam, B.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "Project Procurement and Supply Chain Management",
+          "Instructor": "Jean Claude, S.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "16:15-17:15"
+        },
+        "Session 4_v2": {
+          "Course": "Capstone II: Strategic Project Management",
+          "Instructor": "Dr. Sam, B.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Office Hours",
+          "Time": "17:15-18:15"
+        }
+      },
+      "Wednesday": {},
+      "Thursday": {
+        "Session 1": {
+          "Course": "Managerial Economics",
+          "Instructor": "Dieudonne, U.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 3": {
+          "Course": "Project Procurement and Supply Chain Management",
+          "Instructor": "Jean Claude, S.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "Capstone II: Strategic Project Management",
+          "Instructor": "Dr. Sam, B.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Friday": {
+        "Session 2": {
+          "Course": "Managerial Economics",
+          "Instructor": "Dieudonne, U.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Office Hours",
+          "Time": "11:30-12:30"
+        }
+      }
+    },
+    "BAPM_2023_Section_B": {
+      "Monday": {
+        "Session 1": {
+          "Course": "Project Procurement and Supply Chain Management",
+          "Instructor": "Genevieve, U.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Project Procurement and Supply Chain Management",
+          "Instructor": "Genevieve, U.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Capstone II: Strategic Project Management",
+          "Instructor": "Dr. Sam, B.",
+          "Classroom": "Karongi Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "Managerial Economics",
+          "Instructor": "Dieudonne, U.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Tuesday": {},
+      "Wednesday": {
+        "Session 1": {
+          "Course": "Managerial Economics",
+          "Instructor": "Dieudonne, U.",
+          "Classroom": "Karongi Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Capstone II: Strategic Project Management",
+          "Instructor": "Dr. Sam, B.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Capstone II: Strategic Project Management",
+          "Instructor": "Dr. Sam, B.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Office Hours",
+          "Time": "14:00-15:00"
+        },
+        "Session 4": {
+          "Course": "Project Procurement and Supply Chain Management",
+          "Instructor": "Genevieve, U.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Thursday": {},
+      "Friday": {
+        "Session 1": {
+          "Course": "Managerial Economics",
+          "Instructor": "Dieudonne, U.",
+          "Classroom": "Burera Classroom",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        }
+      }
+    },
+    "BAPM_2023_Section_C": {
+      "Monday": {},
+      "Tuesday": {
+        "Session 1": {
+          "Course": "Capstone II: Strategic Project Management",
+          "Instructor": "Sylvain, N.",
+          "Classroom": "Burera Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 3": {
+          "Course": "Project Procurement and Supply Chain Management",
+          "Instructor": "Jean Claude, S.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "Managerial Economics",
+          "Instructor": "Elisa, H.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Wednesday": {},
+      "Thursday": {
+        "Session 1": {
+          "Course": "Managerial Economics",
+          "Instructor": "Elisa, H.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "8:00-9:00"
+        },
+        "Session 1_v2": {
+          "Course": "Project Procurement and Supply Chain Management",
+          "Instructor": "Jean Claude, S.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Managerial Economics",
+          "Instructor": "Elisa, H.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 4": {
+          "Course": "Project Procurement and Supply Chain Management",
+          "Instructor": "Jean Claude, S.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Friday": {
+        "Session 2": {
+          "Course": "Capstone II: Strategic Project Management",
+          "Instructor": "Sylvain, N.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Office Hours",
+          "Time": "10:30-11:30"
+        }
+      }
+    },
+    "BAPM_2024_Section_A": {
+      "Monday": {
+        "Session 1": {
+          "Course": "Business Ethics and Corporate Governance",
+          "Instructor": "Louise, I.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "8:00-9:00"
+        },
+        "Session 2": {
+          "Course": "Human Resource Management",
+          "Instructor": "Louise, I.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Fundamentals of Economics",
+          "Instructor": "Dieudonne, U.",
+          "Classroom": "Burera Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Irene, U.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Tuesday": {
+        "Session 2": {
+          "Course": "Business Ethics and Corporate Governance",
+          "Instructor": "Louise, I.",
+          "Classroom": "Burera Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Quantitative Methods and Statistics",
+          "Instructor": "Celestin, N. / Marcallina, K",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Wednesday": {
+        "Session 1": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Irene, U.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Fundamentals of Economics",
+          "Instructor": "Dieudonne, U.",
+          "Classroom": "Karongi Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Human Resource Management",
+          "Instructor": "Louise, I.",
+          "Classroom": "Burera Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "Quantitative Methods and Statistics",
+          "Instructor": "Celestin. N Marcallina K",
+          "Classroom": "Karongi Classroom",
+          "Type": "Office Hours",
+          "Time": "16:15-17:15"
+        }
+      },
+      "Thursday": {
+        "Session 1": {
+          "Course": "Business Ethics and Corporate Governance",
+          "Instructor": "Louise, I.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Quantitative Methods and Statistics",
+          "Instructor": "Calestiis, N / Mercellina, K",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        }
+      },
+      "Friday": {
+        "Session 1": {
+          "Course": "Human Resource Management",
+          "Instructor": "Louise, I.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Fundamentals of Economics",
+          "Instructor": "Dieudonne, U.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Office Hours",
+          "Time": "10:30-11:30"
+        },
+        "Session 2_v2": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Irene, U.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Office Hours",
+          "Time": "11:30-12:30"
+        }
+      }
+    },
+    "BAPM_2025_Section_A": {
+      "Monday": {
+        "Session 2": {
+          "Course": "Organizational Behavior",
+          "Instructor": "Moses, M.",
+          "Classroom": "Karongi Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Jean De Dieu, H. / Irene, U.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "Principles of Marketing",
+          "Instructor": "Genevieve, U.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Tuesday": {
+        "Session 1": {
+          "Course": "General Accounting",
+          "Instructor": "Abel, B.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Project Design and Scope Management",
+          "Instructor": "Pascal, U.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 4": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Irene, U.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "17:15-18:15"
+        }
+      },
+      "Wednesday": {
+        "Session 1": {
+          "Course": "Project Design and Scope Management",
+          "Instructor": "Pascal, U.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Office Hours",
+          "Time": "8:00-9:00"
+        },
+        "Session 1_v2": {
+          "Course": "Principles of Marketing",
+          "Instructor": "Genevieve, U.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Principles of Marketing",
+          "Instructor": "Genevieve, U.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Jean De Dieu, H. / Irene, U.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "Organizational Behavior",
+          "Instructor": "Moses, M.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Thursday": {
+        "Session 1": {
+          "Course": "General Accounting",
+          "Instructor": "Abel, B.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Office Hours",
+          "Time": "8:00-9:00"
+        },
+        "Session 1_v2": {
+          "Course": "Organizational Behavior",
+          "Instructor": "Moses, M.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        },
+        "Session 3": {
+          "Course": "General Accounting",
+          "Instructor": "Abel, B.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "Project Design and Scope Management",
+          "Instructor": "Pascal, U.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Lecture",
+          "Time": "17:15-18:15"
+        }
+      },
+      "Friday": {}
+    },
+    "BAPM_2025_Section_B": {
+      "Monday": {
+        "Session 1": {
+          "Course": "Project Design and Scope Management",
+          "Instructor": "Dr. Sam, B.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Jean De Dieu, H. / Ernestine, N.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "General Accounting",
+          "Instructor": "Abel, B.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Tuesday": {
+        "Session 1": {
+          "Course": "Organizational Behavior",
+          "Instructor": "Moses, M.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Principles of Marketing",
+          "Instructor": "Ernestine, N.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "General Accounting",
+          "Instructor": "Abel, B.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "15:00-16:00"
+        },
+        "Session 4": {
+          "Course": "Organizational Behavior",
+          "Instructor": "Moses, M.",
+          "Classroom": "Burera Classroom",
+          "Type": "Office Hours",
+          "Time": "17:15-18:15"
+        }
+      },
+      "Wednesday": {
+        "Session 1": {
+          "Course": "Project Design and Scope Management",
+          "Instructor": "Dr. Sam, B.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Jean De Dieu, H. / Ernestine, N.",
+          "Classroom": "Burera Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "General Accounting",
+          "Instructor": "Abel, B.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Thursday": {
+        "Session 1": {
+          "Course": "Principles of Marketing",
+          "Instructor": "Ernestine, N.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Project Design and Scope Management",
+          "Instructor": "Dr. Sam, B.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Office Hours",
+          "Time": "10:30-11:30"
+        },
+        "Session 3": {
+          "Course": "Organizational Behavior",
+          "Instructor": "Moses, M.",
+          "Classroom": "Karongi Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Friday": {
+        "Session 1": {
+          "Course": "Principles of Marketing",
+          "Instructor": "Ernestine, N.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Jean De Dieu, H.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Office Hours",
+          "Time": "10:30-11:30"
+        }
+      }
+    },
+    "BAPM_2025_Section_C": {
+      "Monday": {
+        "Session 1": {
+          "Course": "Organizational Behavior",
+          "Instructor": "Claire, D.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 3": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Jean De Dieu, H. / Irene, U.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "Project Design and Scope Management",
+          "Instructor": "Jean Claude, S.",
+          "Classroom": "Burera Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Tuesday": {
+        "Session 1": {
+          "Course": "Principles of Marketing",
+          "Instructor": "Genevieve, U.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "8:00-9:00"
+        },
+        "Session 3": {
+          "Course": "Principles of Marketing",
+          "Instructor": "Genevieve, U.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "General Accounting",
+          "Instructor": "Jean De Dieu",
+          "Classroom": "Karongi Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Wednesday": {
+        "Session 1": {
+          "Course": "Project Design and Scope Management",
+          "Instructor": "Jean Claude, S.",
+          "Classroom": "Burera Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Organizational Behavior",
+          "Instructor": "Claire, D.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Jean De Dieu, H. / Irene, U.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Thursday": {
+        "Session 2": {
+          "Course": "General Accounting",
+          "Instructor": "Jean De Dieu",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Office Hours",
+          "Time": "11:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Principles of Marketing",
+          "Instructor": "Genevieve, U.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "General Accounting",
+          "Instructor": "Jean De Dieu",
+          "Classroom": "Karongi Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Friday": {
+        "Session 1": {
+          "Course": "Project Design and Scope Management",
+          "Instructor": "Jean Claude, S.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Office Hours",
+          "Time": "8:00-9:00"
+        },
+        "Session 1_v2": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Irene, U.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Organizational Behavior",
+          "Instructor": "Claire, D.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Office Hours",
+          "Time": "10:30-11:30"
+        }
+      }
+    },
+    "BAPM_2025_Section_D": {
+      "Monday": {
+        "Session 1": {
+          "Course": "Principles of Marketing",
+          "Instructor": "Elisa, H.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Project Design and Scope Management",
+          "Instructor": "Pascal, U.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Jean De Dieu, H. / Irene, U.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "Principles of Marketing",
+          "Instructor": "Elisa, H.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Office Hours",
+          "Time": "16:15-17:15"
+        }
+      },
+      "Tuesday": {
+        "Session 1": {
+          "Course": "Organizational Behavior",
+          "Instructor": "Pascal, U.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 4": {
+          "Course": "General Accounting",
+          "Instructor": "Jean De Dieu",
+          "Classroom": "Karongi Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Wednesday": {
+        "Session 1": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Jean De Dieu, H.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "8:00-9:00"
+        },
+        "Session 1_v2": {
+          "Course": "Organizational Behavior",
+          "Instructor": "Pascal, U.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Principles of Marketing",
+          "Instructor": "Elisa, H.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Jean De Dieu, H. / Irene, U.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "Project Design and Scope Management",
+          "Instructor": "Pascal, U.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Thursday": {
+        "Session 1": {
+          "Course": "Organizational Behavior",
+          "Instructor": "Pascal, U.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 4": {
+          "Course": "General Accounting",
+          "Instructor": "Jean De Dieu",
+          "Classroom": "Karongi Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-17:15"
+        }
+      },
+      "Friday": {
+        "Session 1_v2": {
+          "Course": "Project Design and Scope Management",
+          "Instructor": "Pascal, U.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        }
+      }
+    },
+    "BsBA_2024_Section_A": {
+      "Monday": {
+        "Session 1": {
+          "Course": "Business Finance",
+          "Instructor": "Abel, B.",
+          "Classroom": "Karongi Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Data Warehousing and Mining",
+          "Instructor": "Jean Paul, M / Clementina, O.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Bayesian Statistics for Business",
+          "Instructor": "Vedaste Nyandwi",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Tuesday": {
+        "Session 1": {
+          "Course": "Business Forecasting",
+          "Instructor": "Dr. Emelyne, U. / Clementina, O.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Data Warehousing and Mining",
+          "Instructor": "Jean Paul, M / Clementina, O.",
+          "Classroom": "Karongi Classroom",
+          "Type": "Office Hours",
+          "Time": "10:30-11:30"
+        },
+        "Session 2_v2": {
+          "Course": "Business Finance",
+          "Instructor": "Abel, B.",
+          "Classroom": "Karongi Classroom",
+          "Type": "Office Hours",
+          "Time": "11:30-12:30"
+        },
+        "Session 3": {
+          "Course": "English Communication Skills 4: Business Writing",
+          "Instructor": "Jean Bosco, S.",
+          "Classroom": "Burera Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Wednesday": {
+        "Session 1": {
+          "Course": "Business Finance",
+          "Instructor": "Abel, B.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Data Warehousing and Mining",
+          "Instructor": "Jean Paul, M / Clementina, O.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 4": {
+          "Course": "Bayesian Statistics for Business",
+          "Instructor": "Vedaste, Nyandwi",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Thursday": {
+        "Session 1": {
+          "Course": "English Communication Skills 4: Business Writing",
+          "Instructor": "Jean Bosco, S.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Business Forecasting",
+          "Instructor": "Dr. Emelyne, U. / Clementina, O.",
+          "Classroom": "Karongi Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 4": {
+          "Course": "Business Forecasting",
+          "Instructor": "Dr. Emelyne, U. / Clementina, O.",
+          "Classroom": "Burera Classroom",
+          "Type": "Office Hours",
+          "Time": "16:15-17:15"
+        }
+      },
+      "Friday": {
+        "Session 2": {
+          "Course": "Bayesian Statistics for Business",
+          "Instructor": "Vedaste. Nyandwi",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Office Hours",
+          "Time": "10:30-11:30"
+        },
+        "Session 2_v2": {
+          "Course": "English Communication Skills 4: Business Writing",
+          "Instructor": "Jean Bosco, S.",
+          "Classroom": "Burera Classroom",
+          "Type": "Office Hours",
+          "Time": "11:30-12:30"
+        }
+      }
+    },
+    "BsBA_2025_Section_A": {
+      "Monday": {
+        "Session 1": {
+          "Course": "English Communications 3: Public Speaking",
+          "Instructor": "Vedaste, N.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Jean De Dieu, H. / Ernestine, N.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Human Resource Management",
+          "Instructor": "Silas, M. / Vedaste, K.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "General Accounting",
+          "Instructor": "Jean De Dieu",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Tuesday": {
+        "Session 2": {
+          "Course": "Calculus for Business",
+          "Instructor": "Vedaste, Nyandwi",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "General Accounting",
+          "Instructor": "Jean De Dieu",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "14:00-15:00"
+        }
+      },
+      "Wednesday": {
+        "Session 2": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Jean De Dieu, H. / Ernestine, N.",
+          "Classroom": "Burera Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Human Resource Management",
+          "Instructor": "Silas, M. / Vedaste, K.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "General Accounting",
+          "Instructor": "Jean De Dieu",
+          "Classroom": "Burera Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Thursday": {
+        "Session 1": {
+          "Course": "Calculus for Business",
+          "Instructor": "Vedaste, Nyandwi",
+          "Classroom": "Karongi Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 4": {
+          "Course": "English Communications 3: Public Speaking",
+          "Instructor": "Vedaste, N.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Friday": {
+        "Session 1": {
+          "Course": "Human Resource Management",
+          "Instructor": "Silas, M. / Vedaste, K.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "8:00-9:00"
+        },
+        "Session 1_v2": {
+          "Course": "Calculus for Business",
+          "Instructor": "Vedaste, Nyandwi",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        },
+        "Session 2": {
+          "Course": "English Communications 3: Public Speaking",
+          "Instructor": "Vedaste, N.",
+          "Classroom": "Karongi Classroom",
+          "Type": "Office Hours",
+          "Time": "10:30-11:30"
+        },
+        "Session 2_v2": {
+          "Course": "Entrepreneurship and Design Thinking",
+          "Instructor": "Ernestine, N.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Office Hours",
+          "Time": "11:30-12:30"
+        }
+      }
+    },
+    "SNHU_2023_Section_A": {
+      "Monday": {},
+      "Tuesday": {
+        "Session 4": {
+          "Course": "BA Research",
+          "Instructor": "Christian, S.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Wednesday": {
+        "Session 1": {
+          "Course": "BA Research",
+          "Instructor": "Christian, S.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        }
+      },
+      "Thursday": {
+        "Session 4": {
+          "Course": "BA Research",
+          "Instructor": "Christian, S.",
+          "Classroom": "Musanze Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Friday": {}
+    },
+    "SNHU_2024_Section_A": {
+      "Monday": {
+        "Session 1": {
+          "Course": "AS Study Group - Career Choice and Job Readiness",
+          "Instructor": "Justin, R.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Office Hours",
+          "Time": "8:00-10:00"
+        }
+      },
+      "Tuesday": {
+        "Session 3": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Aurore, U.",
+          "Classroom": "Karongi Classroom",
+          "Type": "Study Group",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Wednesday": {
+        "Session 3": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Aurore, U.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Office Hours",
+          "Time": "14:00-15:00"
+        },
+        "Session 4": {
+          "Course": "AS Study Group - Career Choice and Job Readiness",
+          "Instructor": "Justin, R.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Study Group",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Thursday": {
+        "Session 2": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Aurore, U.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Study Group",
+          "Time": "10:30-12:30"
+        }
+      },
+      "Friday": {}
+    },
+    "SNHU_2024_Section_B": {
+      "Monday": {
+        "Session 2": {
+          "Course": "AS Study Group - Career Choice and Job Readiness",
+          "Instructor": "Mable, M.",
+          "Classroom": "Burera Classroom",
+          "Type": "Study Group",
+          "Time": "10:30-11:30"
+        },
+        "Session 3": {
+          "Course": "AS Study Group - Career Choice and Job Readiness",
+          "Instructor": "Mable, M.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Office Hours",
+          "Time": "14:00-15:00"
+        }
+      },
+      "Tuesday": {
+        "Session 2": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Aurore, U.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Study Group",
+          "Time": "10:30-12:30"
+        }
+      },
+      "Wednesday": {
+        "Session 3": {
+          "Course": "AS Study Group - Career Choice and Job Readiness",
+          "Instructor": "Mable, M.",
+          "Classroom": "Karongi Classroom",
+          "Type": "Study Group",
+          "Time": "14:00-15:00"
+        },
+        "Session 4": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Aurore, U.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "14:00-15:00"
+        }
+      },
+      "Thursday": {
+        "Session 3": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Aurore, U.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Study Group",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Friday": {}
+    },
+    "SNHU_2024_Section_C": {
+      "Monday": {
+        "Session 4": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Vedaste, Nyandwi",
+          "Classroom": "Karongi Classroom",
+          "Type": "Study Group",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Tuesday": {
+        "Session 1": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Vedaste, Nyandwi",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        }
+      },
+      "Wednesday": {},
+      "Thursday": {
+        "Session 2": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Vedaste, Nyandwi",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Study Group",
+          "Time": "10:30-12:30"
+        }
+      },
+      "Friday": {}
+    },
+    "SNHU_2024_Section_D": {
+      "Monday": {
+        "Session 4": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Dr. Patrick, N.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "17:15-18:15"
+        }
+      },
+      "Tuesday": {
+        "Session 3": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Dr. Patrick, N.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Study Group",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Wednesday": {},
+      "Thursday": {
+        "Session 2": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Dr. Patrick, N.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Study Group",
+          "Time": "10:30-12:30"
+        }
+      },
+      "Friday": {}
+    },
+    "SNHU_2025_Section_A": {
+      "Monday": {
+        "Session 1": {
+          "Course": "AS Study Group - On-Boarding Class",
+          "Instructor": "Jean D'Amour, N.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Study Group",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Computer Applications 2",
+          "Instructor": "Judith, A.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "English Communications 2: Academic Writing",
+          "Instructor": "Vedaste, N.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-15:00"
+        }
+      },
+      "Tuesday": {
+        "Session 1": {
+          "Course": "Critical Thinking and Ethical Problem Solving",
+          "Instructor": "Jane, I.",
+          "Classroom": "Karongi Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Statistics for Decision Making",
+          "Instructor": "Dr. Sagesse, U.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 4": {
+          "Course": "Statistics for Decision Making",
+          "Instructor": "Dr. Sagesse, U.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Office Hours",
+          "Time": "16:15-17:15"
+        },
+        "Session 4_v2": {
+          "Course": "Computer Applications 2",
+          "Instructor": "Judith, A.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Office Hours",
+          "Time": "17:15-18:15"
+        }
+      },
+      "Wednesday": {
+        "Session 2": {
+          "Course": "AS Study Group - On-Boarding Class",
+          "Instructor": "Jean D'Amour, N.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Study Group",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "English Communications 2: Academic Writing",
+          "Instructor": "Vedaste, N.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "AS Study Group - On-Boarding Class",
+          "Instructor": "Jean D'Amour, N.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "17:15-18:15"
+        }
+      },
+      "Thursday": {
+        "Session 1": {
+          "Course": "Computer Applications 2",
+          "Instructor": "Judith, A.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Critical Thinking and Ethical Problem Solving",
+          "Instructor": "Jane, I.",
+          "Classroom": "Burera Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Statistics for Decision Making",
+          "Instructor": "Dr. Sagesse, U.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Friday": {
+        "Session 1": {
+          "Course": "English Communications 2: Academic Writing",
+          "Instructor": "Vedaste, N.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Critical Thinking and Ethical Problem Solving",
+          "Instructor": "Jane, I.",
+          "Classroom": "Burera Classroom",
+          "Type": "Office Hours",
+          "Time": "10:30-11:30"
+        }
+      }
+    },
+    "SNHU_2025_Section_B": {
+      "Monday": {
+        "Session 1": {
+          "Course": "Computer Applications 2",
+          "Instructor": "Pierre Clemen, C.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 3": {
+          "Course": "English Communications 2: Academic Writing",
+          "Instructor": "Dr. Damascene, N.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "Critical Thinking and Ethical Problem Solving",
+          "Instructor": "Jane, I.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Tuesday": {
+        "Session 1": {
+          "Course": "AS Study Group - On-Boarding Class",
+          "Instructor": "Gilbert, M.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Study Group",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Statistics for Decision Making",
+          "Instructor": "Celestin, N. / Marcellina, K.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 4": {
+          "Course": "Statistics for Decision Making",
+          "Instructor": "Celestin, N. / Marcellina, K.",
+          "Classroom": "Burera Classroom",
+          "Type": "Office Hours",
+          "Time": "16:15-17:15"
+        }
+      },
+      "Wednesday": {
+        "Session 1": {
+          "Course": "Computer Applications 2",
+          "Instructor": "Pierre Clemen, C.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "8:00-10:00"
+        },
+        "Session 2": {
+          "Course": "English Communications 2: Academic Writing",
+          "Instructor": "Dr. Damascene, N.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Critical Thinking and Ethical Problem Solving",
+          "Instructor": "Jane, I.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Thursday": {
+        "Session 3": {
+          "Course": "Statistics for Decision Making",
+          "Instructor": "Celestin, N. / Marcellina, K.",
+          "Classroom": "Nyanza Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "AS Study Group - On-Boarding Class",
+          "Instructor": "Gilbert, M.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Study Group",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Friday": {
+        "Session 1": {
+          "Course": "AS Study Group - On-Boarding Class",
+          "Instructor": "Gilbert, M.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Office Hours",
+          "Time": "8:00-9:00"
+        },
+        "Session 1_v2": {
+          "Course": "Critical Thinking and Ethical Problem Solving",
+          "Instructor": "Jane, I.",
+          "Classroom": "Karongi",
+          "Type": "Office Hours",
+          "Time": "17:15-18:15"
+        },
+        "Session 2": {
+          "Course": "Computer Applications 2",
+          "Instructor": "Pierre Clemen, C.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Office Hours",
+          "Time": "10:30-11:30"
+        },
+        "Session 2_v2": {
+          "Course": "English Communications 2: Academic Writing",
+          "Instructor": "Dr. Damascene, N.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Office Hours",
+          "Time": "11:30-12:30"
+        }
+      }
+    },
+    "SNHU_2025_Section_C": {
+      "Monday": {
+        "Session 1": {
+          "Course": "Computer Applications 2",
+          "Instructor": "Judith, A.",
+          "Classroom": "Burera Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 2": {
+          "Course": "AS Study Group - On-Boarding Class",
+          "Instructor": "Jane, I.",
+          "Classroom": "Gasabo Classroom",
+          "Type": "Study Group",
+          "Time": "10:30-12:30"
+        }
+      },
+      "Tuesday": {
+        "Session 1": {
+          "Course": "Statistics for Decision Making",
+          "Instructor": "Dr. Patrick, N.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Critical Thinking and Ethical Problem Solving",
+          "Instructor": "Claire, D.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "English Communications 2: Academic Writing",
+          "Instructor": "Jean Bosco, S.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Wednesday": {
+        "Session 1": {
+          "Course": "AS Study Group - On-Boarding Class",
+          "Instructor": "Jane, I.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Study Group",
+          "Time": "8:00-10:00"
+        },
+        "Session 4": {
+          "Course": "Computer Applications 2",
+          "Instructor": "Judith, A.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Lecture",
+          "Time": "17:15-18:15"
+        }
+      },
+      "Thursday": {
+        "Session 1": {
+          "Course": "Critical Thinking and Ethical Problem Solving",
+          "Instructor": "Claire, D.",
+          "Classroom": "Burera Classroom",
+          "Type": "Office Hours",
+          "Time": "8:00-9:00"
+        },
+        "Session 1_v2": {
+          "Course": "Statistics for Decision Making",
+          "Instructor": "Dr. Patrick, N.",
+          "Classroom": "Burera Classroom",
+          "Type": "Office Hours",
+          "Time": "9:00-10:00"
+        },
+        "Session 2": {
+          "Course": "Critical Thinking and Ethical Problem Solving",
+          "Instructor": "Claire, D.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        },
+        "Session 3": {
+          "Course": "Statistics for Decision Making",
+          "Instructor": "Dr. Patrick, N.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        },
+        "Session 4": {
+          "Course": "English Communications 2: Academic Writing",
+          "Instructor": "Jean Bosco, S.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Lecture",
+          "Time": "16:15-18:15"
+        }
+      },
+      "Friday": {
+        "Session 1": {
+          "Course": "AS Study Group - On-Boarding Class",
+          "Instructor": "Jane, I.",
+          "Classroom": "Karongi Classroom",
+          "Type": "Office Hours",
+          "Time": "8:00-9:00"
+        },
+        "Session 2": {
+          "Course": "English Communications 2: Academic Writing",
+          "Instructor": "Jean Bosco, S.",
+          "Classroom": "Kayonza Classroom",
+          "Type": "Office Hours",
+          "Time": "10:30-11:30"
+        },
+        "Session 2_v2": {
+          "Course": "Computer Applications 2",
+          "Instructor": "Judith, A.",
+          "Classroom": "Rubavu Classroom",
+          "Type": "Office Hours",
+          "Time": "11:30-12:30"
+        }
+      }
+    },
+    "SNHU_2025_Section_D": {
+      "Monday": {},
+      "Tuesday": {
+        "Session 3": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Dr. Patrick, N.",
+          "Classroom": "Muhanga Classroom",
+          "Type": "Study Group",
+          "Time": "14:00-15:00"
+        },
+        "Session 4": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Dr. Patrick, N.",
+          "Classroom": "N/A",
+          "Type": "Office Hours",
+          "Time": "16:15-17:15"
+        }
+      },
+      "Wednesday": {},
+      "Thursday": {
+        "Session 3": {
+          "Course": "AS Study Group - Data Driven Decision",
+          "Instructor": "Dr. Patrick, N.",
+          "Classroom": "Kirehe Classroom",
+          "Type": "Study Group",
+          "Time": "14:00-15:00"
+        }
+      },
+      "Friday": {}
+    },
+    "Iteme_Section_A": {
+      "Monday": {
+        "Session 2": {
+          "Course": "Iteme Course",
+          "Instructor": "Yvette, A.",
+          "Classroom": "Musanze Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        }
+      },
+      "Tuesday": {
+        "Session 2": {
+          "Course": "Iteme Course",
+          "Instructor": "Yvette, A.",
+          "Classroom": "Musanze Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        }
+      },
+      "Wednesday": {
+        "Session 2": {
+          "Course": "Iteme Course",
+          "Instructor": "Yvette, A.",
+          "Classroom": "Musanze Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        }
+      },
+      "Thursday": {
+        "Session 2": {
+          "Course": "Iteme Course",
+          "Instructor": "Yvette, A.",
+          "Classroom": "Musanze Classroom",
+          "Type": "Lecture",
+          "Time": "10:30-12:30"
+        }
+      },
+      "Friday": {}
+    },
+    "Iteme_Section_B": {
+      "Monday": {
+        "Session 3": {
+          "Course": "Iteme Course",
+          "Instructor": "Yvette, A.",
+          "Classroom": "Musanze Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Tuesday": {
+        "Session 2": {
+          "Course": "Iteme Course",
+          "Instructor": "Yvette, A.",
+          "Classroom": "Gicumbi Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Wednesday": {
+        "Session 3": {
+          "Course": "Iteme Course",
+          "Instructor": "Yvette, A.",
+          "Classroom": "Musanze Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Thursday": {
+        "Session 3": {
+          "Course": "Iteme Course",
+          "Instructor": "Yvette, A.",
+          "Classroom": "Musanze Classroom",
+          "Type": "Lecture",
+          "Time": "14:00-16:00"
+        }
+      },
+      "Friday": {}
+    }
+  }
+}
