@@ -140,24 +140,36 @@ LOGGING = {
             'class': 'logging.StreamHandler',
             'formatter': 'verbose',
         },
-        'file': {
-            'class': 'logging.FileHandler',
-            'filename': BASE_DIR / 'logs' / 'django.log',
-            'formatter': 'verbose',
-        },
     },
     'root': {
-        'handlers': ['console', 'file'],
+        'handlers': ['console'],
         'level': 'INFO',
     },
     'loggers': {
         'django': {
-            'handlers': ['console', 'file'],
+            'handlers': ['console'],
             'level': env('DJANGO_LOG_LEVEL', default='INFO'),
             'propagate': False,
         },
     },
 }
+
+# Add file logging locally (when DEBUG is True)
+if DEBUG:
+    # Ensure logs directory exists
+    try:
+        if not os.path.exists(BASE_DIR / 'logs'):
+            os.makedirs(BASE_DIR / 'logs')
+    except OSError:
+        pass
+
+    LOGGING['handlers']['file'] = {
+        'class': 'logging.FileHandler',
+        'filename': BASE_DIR / 'logs' / 'django.log',
+        'formatter': 'verbose',
+    }
+    LOGGING['root']['handlers'].append('file')
+    LOGGING['loggers']['django']['handlers'].append('file')
 
 # Camera settings
 CAMERA_PROCESSING_INTERVAL = env.int('CAMERA_PROCESSING_INTERVAL', default=60)
@@ -169,3 +181,4 @@ CELERY_BROKER_URL = env('CELERY_BROKER_URL', default='redis://localhost:6379/0')
 CELERY_RESULT_BACKEND = env('CELERY_RESULT_BACKEND', default='redis://localhost:6379/0')
 CELERY_ACCEPT_CONTENT = ['json']
 CELERY_TASK_SERIALIZER = 'json'
+
